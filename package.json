@@ -1,0 +1,24 @@
+{
+  "name": "@kontentino/prettier-config",
+  "private": false,
+  "description": "Prettier config for multiple projects",
+  "author": "Kontentino",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "kontentino",
+    "prettier-config",
+    "eslint-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontentino/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kontentino/prettier-config/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/kontentino/prettier-config"
+}
