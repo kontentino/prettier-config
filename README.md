@@ -4,7 +4,7 @@
 
 # Prettier config
 > Prettier config for multiple project with the same format
-
+[![](https://img.shields.io/badge/NODE%20VERSION-16-yellowgreen)](https://github.com/kontentino/react-permissions-gage)
 ## Getting started
 
 ### Installation
